@@ -1,0 +1,15 @@
+depth = DEPTH_BATTLE.BOARD-105
+a = 0
+b = 0
+mode = 0
+image_xscale = 2
+image_yscale = 2
+rad = irandom_range(60, 90)
+alpha = 1
+alphaa = 1
+aa = 0
+ht = 1
+len = 600
+dir = 0
+cc = 0
+image_speed=0

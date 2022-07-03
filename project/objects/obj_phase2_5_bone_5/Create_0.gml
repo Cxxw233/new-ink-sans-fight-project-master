@@ -1,0 +1,4 @@
+depth=DEPTH_BATTLE.BULLET
+xt=0
+a=0
+zy=260

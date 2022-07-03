@@ -1,0 +1,19 @@
+a = 0
+ytou1 = 0
+rtou1 = 0
+xj = 0
+yj = 0
+hairdy = 0
+hairdx = 0
+yshen1 = 0
+rsou2a = 0
+sou2adx = 0
+sou2ady = 0
+rsou3 = 0
+sou3dx = 0
+sou3dy = 0
+arm = 0
+rsou1a = 0
+sou1adx = 0
+sou1ady = 0
+ 

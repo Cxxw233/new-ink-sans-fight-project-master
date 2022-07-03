@@ -1,0 +1,4 @@
+a=0
+xt=0
+depth=DEPTH_BATTLE.BOARD-9999999
+time=0

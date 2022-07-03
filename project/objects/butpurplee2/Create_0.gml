@@ -1,0 +1,9 @@
+image_speed = 0
+ox = x
+oy = y
+racce = 0
+depth=DEPTH_BATTLE.BOARD-99999
+rd = 0
+mode = 0
+a = 0
+rspeed = 0

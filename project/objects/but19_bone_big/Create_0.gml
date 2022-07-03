@@ -1,0 +1,11 @@
+image_xscale = 5
+image_yscale = 5
+speed = 0
+gravity = 0.6
+gravity_direction = 270
+window_x = window_get_x()
+window_y = window_get_y()
+shocking = 0
+time = 0
+alarm[0] = -1
+depth = DEPTH_BATTLE.BOARD-9999999

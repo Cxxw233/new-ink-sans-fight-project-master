@@ -1,0 +1,11 @@
+time += 0.5
+if (time == 20)
+    butpurpleextra.xt = 2
+if (battle_soul.x < ((xs + 5) + 8))
+    battle_soul.x = ((xs + 5) + 8)
+if (battle_soul.y < ((ys + 5) + 8))
+    battle_soul.y = ((ys + 5) + 8)
+if (battle_soul.x > (((xs + ws) - 5) - 8))
+    battle_soul.x = (((xs + ws) - 5) - 8)
+if (battle_soul.y > (((ys + hs) - 5) - 8))
+    battle_soul.y = (((ys + hs) - 5) - 8)

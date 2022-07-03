@@ -1,0 +1,6 @@
+global.reset=1
+audio_pause_all()
+depth=DEPTH_BATTLE.BOARD-999999999999999999999999999999999999999999999
+ys=100
+time=0
+

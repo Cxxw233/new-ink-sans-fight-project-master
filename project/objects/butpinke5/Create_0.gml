@@ -1,0 +1,10 @@
+depth=DEPTH_BATTLE.BOARD-999
+sd = 0
+butpinkextra.sn += 1
+butpinkextra.sd[butpinkextra.sn] = id
+mn = butpinkextra.sn
+tgx = ((120 + (mn * 80)) - 80)
+spd = ceil((abs((tgx - x)) / 25))
+image_speed = 0.5
+mode = 0
+mx = 0

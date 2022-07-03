@@ -1,0 +1,11 @@
+tl1 = 40
+image_alpha = 0
+image_blend = c_aqua
+xt = -1
+go = 0
+tl1 = 0
+d = 0
+dir = 0
+tl2 = 0
+xt2 = 0
+depth=DEPTH_BATTLE.BOARD;

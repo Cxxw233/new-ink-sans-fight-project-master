@@ -1,0 +1,10 @@
+y=a+zy
+if xt=0
+a+=1
+if a=20
+xt=1
+if xt=1
+a-=1
+if a=-0
+xt=0
+x-=2

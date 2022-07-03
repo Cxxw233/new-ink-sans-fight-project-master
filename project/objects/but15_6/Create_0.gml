@@ -1,0 +1,13 @@
+alarm[1] = 4
+image_speed = 0
+a = 0
+k = 0
+ui = 0
+mk = 0
+god = 0
+anto = 0
+spr = 0
+tuse = 0
+spr2 = 0
+tlong = 0
+xsca = 0

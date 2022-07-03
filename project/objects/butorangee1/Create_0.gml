@@ -1,0 +1,21 @@
+depth = -15
+a = 0
+b = 0
+ytou1 = 0
+yshen1 = 0
+shenxt = 0
+s1x = 0
+s1y = 0
+sh1x = 0
+sh1y = 0
+sh2y = 0
+t1x = 0
+t1y = 0
+s2x = 0
+s2y = 0
+legx = 0
+legy = 0
+sangle = -5
+sangle2 = 5
+yy = 0
+ 

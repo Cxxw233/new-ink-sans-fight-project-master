@@ -1,0 +1,5 @@
+Battle_SetTurnInfo(BATTLE_TURN.TIME,-1);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_LEFT,20);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_RIGHT,20);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_UP,83);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_DOWN,63);

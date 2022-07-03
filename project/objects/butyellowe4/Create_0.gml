@@ -1,0 +1,11 @@
+time = 0
+color_mode = "orange"
+time_release = 40
+circle = butyellowe5
+image_alpha = 0
+image_speed = 0
+image_index = 19
+image_xscale = 0.1
+image_yscale = 0.1
+image_index = 2
+depth=DEPTH_BATTLE.BOARD-90000

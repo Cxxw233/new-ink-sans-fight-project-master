@@ -1,0 +1,1 @@
+global.nowkr+=7

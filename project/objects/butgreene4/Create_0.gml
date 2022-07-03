@@ -1,0 +1,9 @@
+image_speed = 0
+image_alpha = 0
+image_xscale = 1.5
+image_yscale = 1.5
+a = 0
+dir = 0
+ang = 0
+type = 0
+depth=DEPTH_BATTLE.BOARD-9999

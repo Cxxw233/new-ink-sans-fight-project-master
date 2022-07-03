@@ -1,0 +1,2 @@
+depth = DEPTH_BATTLE.BOARD-4
+

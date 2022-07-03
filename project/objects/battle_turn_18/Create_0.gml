@@ -1,0 +1,14 @@
+a = 0
+xt = 1
+tl1 = 0
+bl50 = 0
+alarm[0]=20
+alarm[1]=20
+glu=0
+xx=0
+a2=0
+ts=0
+c=65
+ender=0
+a3=0
+a4=0

@@ -1,0 +1,15 @@
+ag = 0
+image_alpha = 0
+rou = irandom_range(61, 83)
+a = 0
+c = 0
+sk = 0
+bb = 0
+aspd = 0
+spd = 0
+b = 0
+hmp = 0
+sp = 0
+pb = 0
+m = 0
+depth=DEPTH_BATTLE.BOARD-99999

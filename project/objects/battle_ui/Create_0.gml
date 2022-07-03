@@ -1,0 +1,9 @@
+depth=DEPTH_BATTLE.UI;
+x=30;
+y=401;
+xjj=0
+yjj=0
+global.kr=0
+global.pkr=0
+global.ukr=1
+color=c_white

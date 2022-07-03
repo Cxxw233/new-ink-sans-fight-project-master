@@ -1,0 +1,10 @@
+image_alpha = 1
+image_speed = 0
+tl1 = 0
+a = 0
+b = 0
+xj = 0
+yj = 0
+xtt = 0
+de = 0
+depth=-99999999999

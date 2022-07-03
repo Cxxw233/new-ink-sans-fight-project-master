@@ -1,0 +1,3 @@
+depth=DEPTH_BATTLE.BOARD-9999999999999999999
+cm=0
+image_alpha=0

@@ -1,0 +1,1 @@
+draw_sprite(spr_enc_ink_0, 0, 2092, obj_enc_player.y)

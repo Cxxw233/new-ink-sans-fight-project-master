@@ -1,0 +1,11 @@
+qs = 0
+md = 0
+a = 0
+hang = 0
+bog = 0
+ot = 0
+ac = 0
+dx = 0
+dy = 0
+ca = 0
+image_alpha=1

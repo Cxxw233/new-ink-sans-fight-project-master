@@ -1,0 +1,10 @@
+draw_set_color(c_red)
+draw_set_alpha(0.9)
+draw_rectangle(0, 480, 640, (470 + (yj * 1.15)), false)
+draw_set_alpha(0.85)
+draw_rectangle(0, (470 + (yj * 1.1)), 640, (455 + (yj * 1.25)), false)
+draw_set_alpha(0.65)
+draw_rectangle(0, (455 + (yj * 1.2)), 640, (420 + (yj * 1.35)), false)
+draw_set_alpha(0.32)
+draw_rectangle(0, (420 + (yj * 1.3)), 640, (390 + (yj * 1.45)), false)
+ 
